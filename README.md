@@ -19,7 +19,7 @@
         <li><strong>Compatibilité mobile</strong> : Interface optimisée pour une utilisation sur ordinateurs et appareils mobiles.</li>
     </ul>
     <h2>Captures d'écran</h2>
-    <p><em>(Insérez ici des captures d'écran de votre application pour illustrer les fonctionnalités)</em></p>
+    <p><em><img src="assets/screen.png"</p>
     <h2>Installation et Configuration</h2>
     <h3>Prérequis</h3>
     <ul>
